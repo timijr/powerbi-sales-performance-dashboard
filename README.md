@@ -1,4 +1,5 @@
 # Sales Performance Dashboard (Power BI)
+![Sales Performance Dashboard](dashboard.png)
 
 ## Business Problem
 A multi-store retail company in Nigeria operates 5 stores across 4 regions, selling Electronics and Furniture through 4 channels (In-Store, Online, Phone, Partner). Despite having over 500 sales transactions logged across 2023 and 2024, the business had no central way to see which stores, regions, channels, or products were actually driving revenue and profit, or how performance was trending over time.
