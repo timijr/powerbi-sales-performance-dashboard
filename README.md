@@ -60,6 +60,7 @@ The data model originally had two separate "Region" fields: one describing where
 - `Sales_Performance_Analytics.pbix`: the Power BI file
 - `Sales_transactions.xlsx`: the underlying data model
 - `dashboard.png`: a screenshot of the dashboard
-
+- `Sales_Analytics_BRD.docx`: the business requirements document for the dashboard
+  
 ## Author
 Bello Ridwan Oluwadamilare, Data Analyst (University of Ilorin)
